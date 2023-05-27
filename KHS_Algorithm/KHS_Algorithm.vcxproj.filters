@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\DFS/BFS">
       <UniqueIdentifier>{8b3e0d9a-1e37-40e4-9760-c1095e0a9ef1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Greedy">
+      <UniqueIdentifier>{32d491c4-047b-49de-bd50-5f0f4b370ed0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Baekjoon1260.cpp">
@@ -35,6 +38,12 @@
     </ClCompile>
     <ClCompile Include="Baekjoon1987.cpp">
       <Filter>소스 파일\DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon2839.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon11399.cpp">
+      <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
